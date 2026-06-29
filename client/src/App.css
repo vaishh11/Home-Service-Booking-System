@@ -1,0 +1,2 @@
+/* App-level overrides — MUI theme reset */
+.MuiAppBar-root, .MuiPaper-root { background-color: transparent !important; box-shadow: none !important; }
