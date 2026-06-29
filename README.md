@@ -97,14 +97,6 @@ cd ../server
 npm start
 ```
 
----
-
-## 📸 Screenshots
-
-Coming Soon...
-
----
-
 ## 👩‍💻 Developed By
 
 **Vaishali U**
